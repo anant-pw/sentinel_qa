@@ -51,3 +51,5 @@ GROQ_API_KEY=your_key_here
 - [ ] **Horizontal Scaling:** `pytest-xdist` integration for parallel execution.
 
 ---
+
+Built by [Anant Jain](https://www.linkedin.com/in/anant-jain-40760719/)) as part of the **Sentinel Series** — documenting the evolution from manual QA scripting to fully autonomous AI-driven testing pipelines.
