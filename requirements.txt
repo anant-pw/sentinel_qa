@@ -1,0 +1,13 @@
+playwright
+pytest
+pytest-playwright
+pytest-xdist
+requests
+pyyaml
+streamlit
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+loguru
+allure-pytest

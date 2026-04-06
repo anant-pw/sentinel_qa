@@ -1,0 +1,17 @@
+steps:
+- action: navigate
+  data: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+  selector: null
+- action: type
+  data: Admin
+  selector: input[name='username']
+- action: type
+  data: admin123
+  selector: input[name='password']
+- action: click
+  data: null
+  selector: button[type='submit-wrong']
+- action: verify_text
+  data: Dashboard
+  selector: .oxd-topbar-header-breadcrumb
+title: Login Verification
