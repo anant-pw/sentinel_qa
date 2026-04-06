@@ -7,7 +7,7 @@ Sentinel-QA transforms the testing lifecycle from manual scripting to AI orchest
 
 ---
 
-### 🔬 Core Architecture (The 20%)
+### 🔬 Core Architecture
 1.  **Requirement Analyst:** AI converts messy Jira/unstructured text into structured **YAML Test Plans**.
 2.  **HITL Approval Portal:** A **Streamlit** dashboard where humans review/edit AI-generated plans before execution.
 3.  **Hybrid Engine:** Performs **API Tier-1/2 validation** before triggering **Playwright UI** automation.
