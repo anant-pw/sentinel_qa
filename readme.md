@@ -1,6 +1,8 @@
 ### [PROJECT ASSET: README.MD]
 
 # 🛡️ Sentinel-QA (Pilot)
+
+> **Learning project.** The first version of a personal experiment, not maintained. The latest version is [sentinal_qa_phase3](https://github.com/anant-pw/sentinal_qa_phase3).
 **Cognitive QA Engine: AI-Generated, Human-Approved, Autonomous Testing.**
 
 Sentinel-QA transforms the testing lifecycle from manual scripting to AI orchestration. It uses **SambaNova LPU** (Llama-3.3-70B) and **LangChain** to generate, execute, and triage tests with human oversight.
